@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="-H_mtQnk-PTXWXPvYvuk">
-    <mxGraphModel dx="1678" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,19 +127,6 @@
         <mxCell id="sH9JDTpOENVTr_ntOk7P-6" edge="1" parent="1" source="sH9JDTpOENVTr_ntOk7P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sH9JDTpOENVTr_ntOk7P-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2nLmJzsSFeY6AHBLSaib-8" edge="1" parent="1" source="sH9JDTpOENVTr_ntOk7P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2nLmJzsSFeY6AHBLSaib-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="80" y="359" />
-              <mxPoint x="80" y="770" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2nLmJzsSFeY6AHBLSaib-10" connectable="0" parent="2nLmJzsSFeY6AHBLSaib-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="доставку статического контент" vertex="1">
-          <mxGeometry relative="1" x="0.6302" y="4" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sH9JDTpOENVTr_ntOk7P-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Сайт React" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="299" as="geometry" />
         </mxCell>
@@ -152,20 +139,6 @@
         </mxCell>
         <mxCell id="2nLmJzsSFeY6AHBLSaib-1" connectable="0" parent="sH9JDTpOENVTr_ntOk7P-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Получает список сервисов" vertex="1">
           <mxGeometry relative="1" x="0.0643" y="-4" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2nLmJzsSFeY6AHBLSaib-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CDN регион 1" vertex="1">
-          <mxGeometry height="60" width="120" x="240" y="610" as="geometry" />
-        </mxCell>
-        <mxCell id="2nLmJzsSFeY6AHBLSaib-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CDN регион 2" vertex="1">
-          <mxGeometry height="60" width="120" x="240" y="740" as="geometry" />
-        </mxCell>
-        <mxCell id="2nLmJzsSFeY6AHBLSaib-7" edge="1" parent="1" source="sH9JDTpOENVTr_ntOk7P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.428;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;" target="2nLmJzsSFeY6AHBLSaib-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2nLmJzsSFeY6AHBLSaib-9" connectable="0" parent="2nLmJzsSFeY6AHBLSaib-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="доставку статического контент" vertex="1">
-          <mxGeometry relative="1" x="0.0585" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
